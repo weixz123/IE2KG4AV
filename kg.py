@@ -12,7 +12,7 @@ import pickle
 
 # DeepSeek API 配置
 client = OpenAI(
-    api_key="sk-29790821bfe445b48334837e5f20bad1",
+    api_key="sk-",
     base_url="https://api.deepseek.com",
 )
 
